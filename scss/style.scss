@@ -55,3 +55,25 @@ body {
   }
 
 }
+
+#share-section{
+  .fa{
+    color: #fff;
+    background: #333;
+    border-radius: 5px;
+    padding: 4px;
+    font-size: $icon-size;
+  }
+
+}
+
+#create-section{
+  .fa{
+    color: $primary-color;
+    background: #fff;
+    padding: 4px;
+    border-radius: 5px;
+    font-size:$icon-size;
+  }
+
+}
